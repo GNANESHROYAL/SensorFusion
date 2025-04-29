@@ -24,4 +24,4 @@ colcon build --symlink-install
 source install/setup.bash
 
 # launch Gazebo demo (robot + 5 humans)
-ros2 launch esf_demo gazebo_social_world.launch.py
+#ros2 launch esf_demo gazebo_social_world.launch.py
